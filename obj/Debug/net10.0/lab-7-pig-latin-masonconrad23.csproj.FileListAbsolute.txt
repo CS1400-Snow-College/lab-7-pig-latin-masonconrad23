@@ -1,0 +1,15 @@
+C:\Users\mason\my-code-dir\lab-7-pig-latin-masonconrad23\bin\Debug\net10.0\lab-7-pig-latin-masonconrad23.exe
+C:\Users\mason\my-code-dir\lab-7-pig-latin-masonconrad23\bin\Debug\net10.0\lab-7-pig-latin-masonconrad23.deps.json
+C:\Users\mason\my-code-dir\lab-7-pig-latin-masonconrad23\bin\Debug\net10.0\lab-7-pig-latin-masonconrad23.runtimeconfig.json
+C:\Users\mason\my-code-dir\lab-7-pig-latin-masonconrad23\bin\Debug\net10.0\lab-7-pig-latin-masonconrad23.dll
+C:\Users\mason\my-code-dir\lab-7-pig-latin-masonconrad23\bin\Debug\net10.0\lab-7-pig-latin-masonconrad23.pdb
+C:\Users\mason\my-code-dir\lab-7-pig-latin-masonconrad23\obj\Debug\net10.0\lab-7-pig-latin-masonconrad23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mason\my-code-dir\lab-7-pig-latin-masonconrad23\obj\Debug\net10.0\lab-7-pig-latin-masonconrad23.AssemblyInfoInputs.cache
+C:\Users\mason\my-code-dir\lab-7-pig-latin-masonconrad23\obj\Debug\net10.0\lab-7-pig-latin-masonconrad23.AssemblyInfo.cs
+C:\Users\mason\my-code-dir\lab-7-pig-latin-masonconrad23\obj\Debug\net10.0\lab-7-pig-latin-masonconrad23.csproj.CoreCompileInputs.cache
+C:\Users\mason\my-code-dir\lab-7-pig-latin-masonconrad23\obj\Debug\net10.0\lab-7-pig-latin-masonconrad23.sourcelink.json
+C:\Users\mason\my-code-dir\lab-7-pig-latin-masonconrad23\obj\Debug\net10.0\lab-7-pig-latin-masonconrad23.dll
+C:\Users\mason\my-code-dir\lab-7-pig-latin-masonconrad23\obj\Debug\net10.0\refint\lab-7-pig-latin-masonconrad23.dll
+C:\Users\mason\my-code-dir\lab-7-pig-latin-masonconrad23\obj\Debug\net10.0\lab-7-pig-latin-masonconrad23.pdb
+C:\Users\mason\my-code-dir\lab-7-pig-latin-masonconrad23\obj\Debug\net10.0\lab-7-pig-latin-masonconrad23.genruntimeconfig.cache
+C:\Users\mason\my-code-dir\lab-7-pig-latin-masonconrad23\obj\Debug\net10.0\ref\lab-7-pig-latin-masonconrad23.dll
